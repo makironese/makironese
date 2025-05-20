@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning programação no Alura, Java script e GitHub
 - 😊 Eu tenho 16 anos
 - 📫 Estudo no colégio estadual do Paraná
-- 😎 Meu passatempo preferido é dormir, ler e jogar
+
 
 <!---
 makironese/makironese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
